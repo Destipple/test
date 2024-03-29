@@ -1,1 +1,1 @@
-return print(sd)
+return sd = '123'
